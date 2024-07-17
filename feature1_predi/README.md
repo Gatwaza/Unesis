@@ -1,6 +1,7 @@
 # LLaMA Medical Disease Prediction
 
-This project demonstrates how to fine-tune a large language model (LLaMA) to predict diseases based on patient history records. It includes steps for setting up the environment, preprocessing data, training the model, and making predictions.
+This project demonstrates how to fine-tune the LLaMA 3 (7B) model to predict diseases based on both patient history records and lab results. It includes steps for setting up the environment, preprocessing data, training the model, and making predictions.
+
 
 ## Prerequisites
 
