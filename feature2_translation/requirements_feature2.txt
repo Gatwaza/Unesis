@@ -1,18 +1,8 @@
-# Audio Processing Libraries
-librosa
-pydub
-speechrecognition
-wave
-pyaudio
+assemblyai==0.7.0
+gradio==3.10.0
+translate==3.6.1
+uuid==1.30
+elevenlabs==0.2.8
+numpy==1.23.1
+pathlib==1.0.1
 
-# Real-Time Translation and Text-to-Speech Libraries
-googletrans==4.0.0-rc1  # Note: Check the latest version or use the official API
-gtts
-azure-cognitiveservices-speech
-
-# Flask or FastAPI for Real-Time Web Services
-flask
-fastapi
-
-# Additional Utilities
-requests
