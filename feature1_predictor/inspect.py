@@ -1,7 +1,9 @@
+#!/usr/bin/env python3
+
 import pandas as pd
 
-dataset_path = '/heart_data.csv'
-df = pd.read_csv(heart_data.csv)
+dataset_path = '/Heart_Disease_Prediction.csv'  # Update the path as needed
+df = pd.read_csv(dataset_path)
 
 # Display the first few rows of the dataset
 print(df.head())
